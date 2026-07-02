@@ -1,0 +1,77 @@
+2026-07-02 17:24:57 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:24:57 - INFO - Details: BUY 0.01 BTCUSDT @ MARKET (Price: Market)
+2026-07-02 17:24:59 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:24:59 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-07-02 17:25:00 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:25:00 - INFO - Order ID: 18476111979
+2026-07-02 17:25:00 - INFO - Status: NEW
+2026-07-02 17:25:00 - INFO - Executed Qty: 0.0000
+2026-07-02 17:25:00 - INFO - Avg Price: 0.0
+2026-07-02 17:25:11 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:25:11 - INFO - Details: BUY 0.01 BTCUSDT @ MARKET (Price: Market)
+2026-07-02 17:25:13 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:25:13 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-07-02 17:25:17 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:25:17 - INFO - Order ID: 18476158700
+2026-07-02 17:25:17 - INFO - Status: NEW
+2026-07-02 17:25:17 - INFO - Executed Qty: 0.0000
+2026-07-02 17:25:17 - INFO - Avg Price: 0.0
+2026-07-02 17:25:22 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:25:22 - INFO - Details: SELL 0.01 BTCUSDT @ LIMIT (Price: 80000.0)
+2026-07-02 17:25:31 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:25:31 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'timeInForce': 'GTC', 'price': 80000.0}
+2026-07-02 17:25:32 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:25:32 - INFO - Order ID: 18476196448
+2026-07-02 17:25:32 - INFO - Status: NEW
+2026-07-02 17:25:32 - INFO - Executed Qty: 0.0000
+2026-07-02 17:25:32 - INFO - Avg Price: 0.0
+2026-07-02 17:26:36 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:26:36 - INFO - Details: BUY 0.01 BTCUSDT @ MARKET (Price: Market)
+2026-07-02 17:26:44 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:26:44 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-07-02 17:26:49 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:26:49 - INFO - Order ID: 18476413891
+2026-07-02 17:26:49 - INFO - Status: NEW
+2026-07-02 17:26:49 - INFO - Executed Qty: 0.0000
+2026-07-02 17:26:49 - INFO - Avg Price: 0.0
+2026-07-02 17:29:06 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:29:06 - INFO - Details: BUY 0.01 BTCUSDT @ MARKET (Price: Market)
+2026-07-02 17:29:07 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:29:07 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-07-02 17:29:08 - ERROR - --- BINANCE API ERROR ---
+2026-07-02 17:29:08 - ERROR - Status Code: 400
+2026-07-02 17:29:08 - ERROR - Message: Timestamp for this request was 1000ms ahead of the server's time.
+2026-07-02 17:29:15 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:29:15 - INFO - Details: SELL 0.01 BTCUSDT @ LIMIT (Price: 80000.0)
+2026-07-02 17:29:16 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:29:16 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'timeInForce': 'GTC', 'price': 80000.0}
+2026-07-02 17:29:17 - ERROR - --- BINANCE API ERROR ---
+2026-07-02 17:29:17 - ERROR - Status Code: 400
+2026-07-02 17:29:17 - ERROR - Message: Timestamp for this request was 1000ms ahead of the server's time.
+2026-07-02 17:56:06 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:56:06 - INFO - Details: SELL 0.01 BTCUSDT @ LIMIT (Price: 80000.0)
+2026-07-02 17:56:07 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:56:07 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'timeInForce': 'GTC', 'price': 80000.0}
+2026-07-02 17:56:08 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:56:08 - INFO - Order ID: 18481483371
+2026-07-02 17:56:08 - INFO - Status: NEW
+2026-07-02 17:56:08 - INFO - Executed Qty: 0.0000
+2026-07-02 17:56:08 - INFO - Avg Price: 0.0
+2026-07-02 17:59:00 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:59:00 - INFO - Details: BUY 0.01 BTCUSDT @ MARKET (Price: Market)
+2026-07-02 17:59:01 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:59:01 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-07-02 17:59:02 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:59:02 - INFO - Order ID: 18481913730
+2026-07-02 17:59:02 - INFO - Status: NEW
+2026-07-02 17:59:02 - INFO - Executed Qty: 0.0000
+2026-07-02 17:59:02 - INFO - Avg Price: 0.0
+2026-07-02 17:59:08 - INFO - --- PREPARING ORDER REQUEST ---
+2026-07-02 17:59:08 - INFO - Details: SELL 0.01 BTCUSDT @ LIMIT (Price: 85000.0)
+2026-07-02 17:59:09 - INFO - Binance client initialized successfully for Testnet.
+2026-07-02 17:59:09 - INFO - Sending payload to Binance: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'timeInForce': 'GTC', 'price': 85000.0}
+2026-07-02 17:59:10 - INFO - --- ORDER SUCCESS ---
+2026-07-02 17:59:10 - INFO - Order ID: 18481936170
+2026-07-02 17:59:10 - INFO - Status: NEW
+2026-07-02 17:59:10 - INFO - Executed Qty: 0.0000
+2026-07-02 17:59:10 - INFO - Avg Price: 0.0
